@@ -1,0 +1,12 @@
+{
+  "name": "logic-submission",
+  "version": "1.0.0",
+  "description": "Unit tests for logic problem submission",
+  "main": "number1.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
